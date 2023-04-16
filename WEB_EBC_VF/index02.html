@@ -1,15 +1,87 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title></title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="">
-    </head>
-    <body>
-        <script src="" async defer></script>
+<HTML>
+    <HEAD>
+    <TITLE>Brain Therapy Center. </TITLE>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="estilo.css">
+    <title>Brain Therapy Center</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style02.css">
+    <script type ="text/javascript">
+        function saludo ()
+        {
+            var nombre = document.getElementById("nombre");
+            var username = nombre.value;
+            alert("Hola "+ username + " " + "gracias por visitarnos!!!");
+        }
+    </script>
+        <nav id="hibtc">
+        <h1 data-aos="zoom-out-up">Saludo de Brain Therapy Center!!!</h1>
+            <form>
+            <fieldset>
+            <label for="nombre"> Por favor, escriba su nombre:</label>
+            <input type="text" id ="nombre"/>
+            <button type="button" onclick="saludo()">Enviar</button>
+            </fieldset>
+            </form>    
+            </h1>
+        </nav>
+    </HEAD>
+    <BODY>
+        <H1 data-aos="zoom-in-up"> <CENTER> Brain Therapy Center; Servicios.</CENTER> </H1>
+        <nav id="menu">
+            <!--    <h1 data-aos="zoom-in-up">Servicos</h1> --> 
+                <ul>
+                <a href="index01.html" class="navega">Inicio</a></li>
+            <!--<a href="" class="navega">Servicios</a></li>    Estamos en servios-->
+                <a href="index03.html" class="navega">Talleres</a></l>
+                <a href="index04.html" class="navega">Contacto</a></li>
+                </ul>   
+        </nav>
+        <section class="logobtc">
+            <center>
+            <img id="btc1" src="BTC_logo.jpg" width="250" height="200" alt="" >
+            </center>
+        </section>
+    </BODY>
+        <h1 data-aos="zoom-out-up">
+            <p><center>BTC Servicios:</center>
+        </h1>
+    <center><section class="caja1"></center>
+                    <ol class="txt4">
+                        <br>
+                        <li>Estimulación Temprana</li>
+                        <li>Terapia de lenguaje, comunicación y audición</li>
+                        <li>Terapia de habla</li>
+                        <li>Trastornos de memoria (rehabilitación cognitiva)</li>
+                        <li>Afasias</li>
+                        <li>TEA (Trastorno del espectro autista)</li>
+                        <li>PCI (parálisis cerebral infantil)</li>
+                        <li>Lengua de señas mexicana LSM</li>
+                        <li>Síndrome de down</li>
+                        <li>TDA/H</li>
+                        <li>Brain gym</li>
+                        <li>Terapia en línea</li>
+                        <li>Asesoría a padres</li>
+                        <li>Talleres presenciales y en línea</li>
+                        <br>
+                    </ol>
+            </section>  
+            <br>          
+        <section class="caja"> 
+            <img src="BTC-sensorial04.jpg" width="350" height="350" class="rounded float-start" alt="...">
+            <img src="BTCENTER3.jpg" width="350" height="350" class="rounded float-end" alt="...">
+            <img src="BTCENTER2.jpg" width="350" height="350" class="rounded float-start" alt="...">
+            <img src="BTC-sensorial02.jpg" width="350" height="400" class="rounded float-end" alt="..."> 
+        </section>
+            <br>
+        <div id="pie-pag"></div>
+                <center> <a href ="https://www.youtube.com/@braintherapycenter5526">Link a canal de BTC en youtube</a> </center>
+        </div>
     </body>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+        AOS.init();
+    </script>
 </html>
-
