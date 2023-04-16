@@ -1,0 +1,305 @@
+<<<<<<< HEAD:WEB_EBC_VF/style03.css
+/*
+#menu{
+    background: rgb(163, 172, 206);
+    padding: 15px;
+    margin: 40px;
+}
+
+.btc1{
+    align-items: center;
+    width: 30%;
+    height: 30%;
+    margin: 50px 50px 
+}
+
+.txt3{
+    background: rgb(163, 172, 206);
+    color: #316B83;
+    padding: 20px;
+    width: 40%;
+    margin: 10px;
+}
+
+.Talleres{
+    background:  rgb(145, 131, 235);
+    color: white;
+    display: flex;
+}
+
+
+#btc1{
+    margin: 10px 10px
+}
+
+h1{
+    color: rgb(163, 172, 206)
+}
+
+button{
+    background: rgb(163, 172, 206);
+    color: #316B83;
+}
+
+button:hover{
+    background: rgb(43, 92, 226);
+}
+
+button:activate{
+    background: rgb(159, 230, 159);
+}
+
+.navega{
+    display: inline-block;
+    background:  rgb(145, 131, 235);
+    color: white;
+    padding: 20px 30px;
+    text-decoration: none;
+}
+
+.navega:hover{
+    background: rgb(43, 92, 226);
+}
+
+.navega:activate{
+    background: rgb(159, 230, 159);
+}
+
+@media (max-width: 600px){
+    .facet_sidebar{
+        display: none;
+    }
+    .navega{
+        margin: 10px 0px;
+    }
+}
+*/
+#menu{
+    background: rgb(163, 172, 206);
+    padding: 10px;
+    margin: 10px;
+}  
+.btc1{
+    align-items: center;
+    width: 30%;
+    height: 30%;
+    margin: 50px 50px 
+}  
+.txt3{
+    background: rgb(163, 172, 206);
+    color: #316B83;
+    padding: 20px;
+    width: 40%;
+    margin: 10px;
+}
+.caja{
+    display: flex;
+}
+#btc1{
+    margin: 10px 10px
+}
+h1{
+    color: rgb(163, 172, 206)
+}
+
+button{
+    background: rgb(163, 172, 206);
+    color: #316B83;
+}  
+button:hover{
+    background: rgb(43, 92, 226);
+}
+button:activate{
+    background: rgb(159, 230, 159);
+}  
+.navega{
+    display: inline-block;
+    background:  rgb(145, 131, 235);
+    color: white;
+    padding: 20px 20px;
+    text-decoration: none;
+}  
+.navega:hover{
+    background: rgb(43, 92, 226);
+}
+.navega:activate{
+    background: rgb(159, 230, 159);
+}
+@media (max-width: 600px){
+    .facet_sidebar{
+        display: none;
+}
+.navega{
+    margin: 10px 0px;
+}
+}
+
+#carouselExampleCaptions{
+    align-items: center;
+    width: 30%;
+    height: 30%;
+    margin: 50px 50px 
+}
+.caja1{
+    display: flex;  
+}
+
+.txt4{
+    background: rgb(163, 172, 206);
+    color: #316B83;
+}
+
+
+=======
+/*
+#menu{
+    background: rgb(163, 172, 206);
+    padding: 15px;
+    margin: 40px;
+}
+
+.btc1{
+    align-items: center;
+    width: 30%;
+    height: 30%;
+    margin: 50px 50px 
+}
+
+.txt3{
+    background: rgb(163, 172, 206);
+    color: #316B83;
+    padding: 20px;
+    width: 40%;
+    margin: 10px;
+}
+
+.Talleres{
+    background:  rgb(145, 131, 235);
+    color: white;
+    display: flex;
+}
+
+
+#btc1{
+    margin: 10px 10px
+}
+
+h1{
+    color: rgb(163, 172, 206)
+}
+
+button{
+    background: rgb(163, 172, 206);
+    color: #316B83;
+}
+
+button:hover{
+    background: rgb(43, 92, 226);
+}
+
+button:activate{
+    background: rgb(159, 230, 159);
+}
+
+.navega{
+    display: inline-block;
+    background:  rgb(145, 131, 235);
+    color: white;
+    padding: 20px 30px;
+    text-decoration: none;
+}
+
+.navega:hover{
+    background: rgb(43, 92, 226);
+}
+
+.navega:activate{
+    background: rgb(159, 230, 159);
+}
+
+@media (max-width: 600px){
+    .facet_sidebar{
+        display: none;
+    }
+    .navega{
+        margin: 10px 0px;
+    }
+}
+*/
+#menu{
+    background: rgb(163, 172, 206);
+    padding: 10px;
+    margin: 10px;
+}  
+.btc1{
+    align-items: center;
+    width: 30%;
+    height: 30%;
+    margin: 50px 50px 
+}  
+.txt3{
+    background: rgb(163, 172, 206);
+    color: #316B83;
+    padding: 20px;
+    width: 40%;
+    margin: 10px;
+}
+.caja{
+    display: flex;
+}
+#btc1{
+    margin: 10px 10px
+}
+h1{
+    color: rgb(163, 172, 206)
+}
+
+button{
+    background: rgb(163, 172, 206);
+    color: #316B83;
+}  
+button:hover{
+    background: rgb(43, 92, 226);
+}
+button:activate{
+    background: rgb(159, 230, 159);
+}  
+.navega{
+    display: inline-block;
+    background:  rgb(145, 131, 235);
+    color: white;
+    padding: 20px 20px;
+    text-decoration: none;
+}  
+.navega:hover{
+    background: rgb(43, 92, 226);
+}
+.navega:activate{
+    background: rgb(159, 230, 159);
+}
+@media (max-width: 600px){
+    .facet_sidebar{
+        display: none;
+}
+.navega{
+    margin: 10px 0px;
+}
+}
+
+#carouselExampleCaptions{
+    align-items: center;
+    width: 30%;
+    height: 30%;
+    margin: 50px 50px 
+}
+.caja1{
+    display: flex;  
+}
+
+.txt4{
+    background: rgb(163, 172, 206);
+    color: #316B83;
+}
+
+
+>>>>>>> 574d0e1cfd790c5ee235ea6af0898fac49caefba:style03.css
